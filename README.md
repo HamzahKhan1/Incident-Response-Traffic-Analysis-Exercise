@@ -86,7 +86,7 @@ A **virtual machine** (VM) is a key tool in the kit of a security analyst. They 
 
 17. At this point, the threat has been thoroughly examined, identified,  determined to be a true positive, and even mitigated!
 
-## **Notes**
+## **Conclusion**
 
 If you are relatively new to the realm of security like I am at the time of writing this, then this project can be an exciting culmination of a lot of the skills you've spent the last couple of weeks or months learning. 
 
