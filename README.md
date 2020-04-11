@@ -1,10 +1,10 @@
 # **Incident-Response-Traffic-Analysis-Exercise**
 
 ## **Background**
-- Today's project is a walkthrough through the incident response process from the eyes of a junior SOC (Security Operations Centers) analyst who's been asked to determine if an incident is a false positive or a true incident. 
+Today's project is a walkthrough through the incident response process from the eyes of a junior SOC (Security Operations Centers) analyst who's been asked to determine if an incident is a false positive or a true incident. 
 
 ## **Objective**
-- We'll be using the "Timbershade" exercise files from [malware-traffic-analysis.net](https://malware-traffic-analysis.net/2019/01/28/index.html), a super handy site full of training exercises to analyze pcap files of malicious network traffic. 
+We'll be using the "Timbershade" exercise files from [malware-traffic-analysis.net](https://malware-traffic-analysis.net/2019/01/28/index.html), a super handy site full of training exercises to analyze pcap files of malicious network traffic. 
 
 ### **Key Questions**
 During our analysis, we'll attempt to answer a couple of key questions that will determine if the incident is a true threat or not:
@@ -17,7 +17,7 @@ During our analysis, we'll attempt to answer a couple of key questions that will
 6. What kind of attack is this (Web/Email/Network)?
 
 ## **Tools**
-- A **virtual machine** (VM) is a key tool in the kit of a security analyst. They provide you with a safe place to analyze harmful malware, foreign links, and other suspicious files. While they aren't totally impervious to infections, they serve as an excellent first layer of defense.
+A **virtual machine** (VM) is a key tool in the kit of a security analyst. They provide you with a safe place to analyze harmful malware, foreign links, and other suspicious files. While they aren't totally impervious to infections, they serve as an excellent first layer of defense.
 - We'll be using the **Ubuntu Linux** VM, and inside of it, we'll be working on **terminal** and **Wireshark**, a packet capture software.
 
 ## **Process**
