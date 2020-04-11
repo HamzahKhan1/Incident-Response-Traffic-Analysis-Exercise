@@ -6,7 +6,8 @@
 ## **Objective**
 - We'll be using the "Timbershade" exercise files from [malware-traffic-analysis.net](https://malware-traffic-analysis.net/2019/01/28/index.html), a super handy site full of training exercises to analyze pcap files of malicious network traffic. 
 
-- During our analysis, we'll attempt to answer a couple of key questions that will determine if the incident is a true threat or not:
+### **Key Questions**
+During our analysis, we'll attempt to answer a couple of key questions that will determine if the incident is a true threat or not:
 
 1. What activity is being reported, and at what date and time was it reported at?
 2. What IP addresses (external and internal) and source/destination ports are being flagged for malicious activity?
